@@ -1,0 +1,123 @@
+this device is width:1280,height:800,bpp:32,scrsize:4096000
+create video is success!
+open video is success!
+driver:uvcvideo
+card:USB2.0 Camera
+bus_info:usb-0000:00:1d.7-3
+version:256
+capability:4000001
+query capability success
+set fmt is success!
+request buf is success
+v4l2 init(qbuf) is success!
+streamon is success!
+width:640,heigth:480
+second is 0,msecond is 21056
+second is 0,msecond is 12814
+second is 0,msecond is 15919
+second is 0,msecond is 16870
+second is 0,msecond is 14392
+second is 0,msecond is 14011
+second is 0,msecond is 22931
+second is 0,msecond is 13611
+second is 0,msecond is 14287
+second is 0,msecond is 13767
+second is 0,msecond is 13838
+second is 0,msecond is 15937
+second is 0,msecond is 14307
+second is 0,msecond is 13766
+second is 0,msecond is 13702
+second is 0,msecond is 15791
+second is 0,msecond is 13602
+second is 0,msecond is 14346
+second is 0,msecond is 15772
+second is 0,msecond is 13756
+second is 0,msecond is 15842
+second is 0,msecond is 14350
+second is 0,msecond is 18888
+second is 0,msecond is 12645
+second is 0,msecond is 13629
+second is 0,msecond is 22865
+second is 0,msecond is 13113
+second is 0,msecond is 14003
+second is 0,msecond is 13772
+second is 1,msecond is -984122
+second is 0,msecond is 14347
+second is 0,msecond is 17768
+second is 0,msecond is 12657
+second is 0,msecond is 17755
+second is 0,msecond is 15879
+second is 0,msecond is 18394
+second is 0,msecond is 12681
+second is 0,msecond is 19426
+second is 0,msecond is 13601
+second is 0,msecond is 14559
+second is 0,msecond is 17778
+second is 0,msecond is 15226
+second is 0,msecond is 15832
+second is 0,msecond is 13747
+second is 0,msecond is 14324
+second is 0,msecond is 13774
+second is 0,msecond is 13765
+second is 0,msecond is 15790
+second is 0,msecond is 15025
+second is 0,msecond is 14212
+second is 0,msecond is 13039
+second is 0,msecond is 15825
+second is 0,msecond is 16543
+second is 0,msecond is 14462
+second is 0,msecond is 13819
+second is 0,msecond is 13756
+second is 0,msecond is 15788
+second is 0,msecond is 14343
+second is 0,msecond is 17743
+second is 1,msecond is -987063
+second is 0,msecond is 15757
+second is 0,msecond is 22888
+second is 0,msecond is 12710
+second is 0,msecond is 13993
+second is 0,msecond is 13896
+second is 0,msecond is 22876
+second is 0,msecond is 12703
+second is 0,msecond is 17790
+second is 0,msecond is 12609
+second is 0,msecond is 13610
+second is 0,msecond is 15867
+second is 0,msecond is 14302
+second is 0,msecond is 13780
+second is 0,msecond is 15942
+second is 0,msecond is 15798
+second is 0,msecond is 14368
+second is 0,msecond is 17781
+second is 0,msecond is 12665
+second is 0,msecond is 17638
+second is 0,msecond is 15338
+second is 0,msecond is 15156
+second is 0,msecond is 12804
+second is 0,msecond is 13853
+second is 0,msecond is 15740
+second is 0,msecond is 14398
+second is 0,msecond is 17768
+second is 0,msecond is 12777
+second is 0,msecond is 15807
+second is 0,msecond is 16510
+second is 1,msecond is -984859
+second is 0,msecond is 16963
+second is 0,msecond is 13471
+second is 0,msecond is 22872
+second is 0,msecond is 12747
+second is 0,msecond is 18396
+second is 0,msecond is 12785
+second is 0,msecond is 15845
+second is 0,msecond is 13657
+second is 0,msecond is 14353
+second is 0,msecond is 13713
+streamoff is success!
+pointer:8fdcbc0,FILENAME:show/show.c,init_line:31,stop_line:109,status:1
+pointer:8fdcbe0,FILENAME:show/show.c,init_line:67,stop_line:108,status:1
+pointer:8fdd868,FILENAME:collect/video.c,init_line:47,stop_line:301,status:1
+pointer:8fdda20,FILENAME:collect/video.c,init_line:140,stop_line:300,status:1
+pointer:b7021008,FILENAME:collect/video.c,init_line:177,stop_line:299,status:1
+pointer:b6f3f008,FILENAME:main.c,init_line:56,stop_line:91,status:1
+pointer:b6ea8008,FILENAME:main.c,init_line:57,stop_line:90,status:1
+pointer:8fdda48,FILENAME:time/m_time.c,init_line:17,stop_line:44,status:1
